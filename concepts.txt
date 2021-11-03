@@ -7,5 +7,9 @@ Types of API -REST SOAP
 
 
 
-GIT Concepts
+GIT /CMDConcepts
+type nul > concepts.txt  //create an empty file using cmd
+concepts.txt //to open it
+code api.html //to open file using vscode
+
 git remote add origin repolinkhere
