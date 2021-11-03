@@ -1,3 +1,11 @@
 API Concepts
 
 API - application programming interface
+Types of API -REST SOAP
+
+
+
+
+
+GIT Concepts
+git remote add origin repolinkhere
